@@ -1,6 +1,6 @@
 # photo_bay
 
-A Image Search App from Network Files.
+A Image Search App from Network Files.We use a Image Source API for retrieving images from server.
 
 ## Getting Started
 
